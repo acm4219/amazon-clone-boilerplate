@@ -7,7 +7,7 @@ function Header() {
         <div className="header">
             <img
              className="header_logo"
-             src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+             src="http://pngimg.com/uploads/amazon/amazon_PNG11.png" alt="amazonlogoplaceholder"
              />
              <div className="header_search">
                  <input 
